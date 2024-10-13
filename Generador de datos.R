@@ -1,15 +1,14 @@
-
 library(jsonlite)
 library(dplyr)
 
-# Función para generar fechas aleatorias
+#Generar fechas aleatorias
 generar_fechas <- function(n) {
   start_date <- as.POSIXct("2024-01-01 08:00:00")
   end_date <- as.POSIXct("2024-12-31 16:00:00")
   as.POSIXct(runif(n, as.numeric(start_date), as.numeric(end_date)), origin = "1970-01-01")
 }
 
-# Crear 100 nombres y apellidos únicos
+# Listas 
 nombres_unicos <- c("Juan", "María", "Carlos", "Ana", "Luis", "Pedro", "Sofía", "Camila", 
                     "José", "Miguel", "Fernando", "Valeria", "Andrea", "Roberto", "Julia", 
                     "Lucas", "Alejandro", "Gabriel", "Isabel", "Daniel", "Samuel", "Marta", 
@@ -43,7 +42,9 @@ apellidos_unicos <- c("Pérez", "Gómez", "López", "Rodríguez", "Fernández", 
                       "Conejo", "Quirós", "Bermúdez", "Ortiz", "Zamora", "Zárate", 
                       "Céspedes", "Madriz", "Hidalgo", "Blanco")
 
-# Función para generar números de teléfono aleatorios únicos
+dominios_email <- c("@gmail.com", "@yahoo.com", "@hotmail.com", "@outlook.com", "@protonmail.com")
+
+#Genera números de teléfono aleatorios
 generar_telefonos <- function(n) {
   unique_telefonos <- c()
   while (length(unique_telefonos) < n) {
@@ -55,24 +56,27 @@ generar_telefonos <- function(n) {
   return(unique_telefonos)
 }
 
-# Crear pacientes
+
+#Creación pacientes
 pacientes <- data.frame(
   tipo_documento = rep("paciente", 100),
   paciente_id = paste0("PAC", sprintf("%05d", 1:100)),
   nombre = sample(nombres_unicos, 100, replace = FALSE),
   apellido1 = sample(apellidos_unicos, 100, replace = FALSE),
   apellido2 = sample(apellidos_unicos, 100, replace = FALSE),
-  telefono = generar_telefonos(100),  
-  correo = paste0(sample(nombres_unicos, 100, replace = FALSE), ".", sample(apellidos_unicos, 100, replace = FALSE), "@example.com"),
+  telefono = generar_telefonos(100),  # Generar números de teléfono únicos
   fecha_nacimiento = generar_fechas(100),
   alergias = sample(c("Penicilina", "Ninguna", "Ibuprofeno", "Gluten"), 100, replace = TRUE)
 )
 
-# Convertir a JSON
+
+pacientes$correo <- paste0(tolower(pacientes$nombre), ".", tolower(pacientes$apellido1), sample(dominios_email, 100, replace = TRUE))
+
+#Convertir a JSON
 pacientes_json <- toJSON(pacientes, pretty = TRUE, auto_unbox = TRUE)
 write(pacientes_json, file = "pacientes_odontologia.json")
 
-# Generar datos para citas relacionadas con los pacientes
+#Genera datos citas 
 estados <- c("confirmada", "cancelada", "perdida")
 motivos <- c("consulta general", "tratamiento", "control")
 
@@ -86,11 +90,11 @@ citas <- data.frame(
   notas = sample(c("Paciente debe llegar 15 minutos antes.", "Revisar antecedentes.", "Traer examen de sangre.", ""), 100, replace = TRUE)
 )
 
-# Convertir a JSON
+#Convertir a JSON
 citas_json <- toJSON(citas, pretty = TRUE, auto_unbox = TRUE)
 write(citas_json, file = "citas_odontologia.json")
 
-# Generar datos para sustituciones
+#Genera datos sustituciones
 sustituciones <- data.frame(
   tipo_documento = rep("sustitucion", 100),
   sustitucion_id = paste0("SUST", sprintf("%05d", 1:100)),
@@ -101,11 +105,11 @@ sustituciones <- data.frame(
   notas = sample(c("Reprogramación por inasistencia.", "Sustitución a petición del paciente."), 100, replace = TRUE)
 )
 
-# Convertir a JSON
+#Convertir a JSON
 sustituciones_json <- toJSON(sustituciones, pretty = TRUE, auto_unbox = TRUE)
 write(sustituciones_json, file = "sustituciones_odontologia.json")
 
-# Generar datos para inasistencias relacionadas con las citas
+#Genera datos inasistencias 
 inasistencias <- data.frame(
   tipo_documento = rep("inasistencia", 100),
   inasistencia_id = paste0("INA", sprintf("%05d", 1:100)),
@@ -115,6 +119,6 @@ inasistencias <- data.frame(
   razones = sample(c("Problemas de transporte", "Enfermedad", "No informó razones"), 100, replace = TRUE)
 )
 
-# Convertir a JSON
+#Convertir a JSON
 inasistencias_json <- toJSON(inasistencias, pretty = TRUE, auto_unbox = TRUE)
 write(inasistencias_json, file = "inasistencias_odontologia.json")
