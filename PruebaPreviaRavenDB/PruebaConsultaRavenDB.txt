@@ -1,5 +1,0 @@
-from Clothes_price_datas
-where ItemName = "Jacket" and Category = "Outerwear"
-select {
-    ItemName, Price 
-}
