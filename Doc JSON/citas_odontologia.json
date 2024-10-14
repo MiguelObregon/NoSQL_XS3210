@@ -1,0 +1,902 @@
+[
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00001",
+    "fecha_hora": "2024-11-05 12:23:27",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00001",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00002",
+    "fecha_hora": "2024-02-20 20:20:43",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00002",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00003",
+    "fecha_hora": "2024-04-22 18:12:49",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00003",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00004",
+    "fecha_hora": "2024-05-13 01:14:06",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00004",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00005",
+    "fecha_hora": "2024-07-08 15:10:18",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00005",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00006",
+    "fecha_hora": "2024-12-04 04:41:34",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00006",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00007",
+    "fecha_hora": "2024-07-18 18:18:06",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00007",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00008",
+    "fecha_hora": "2024-08-07 14:23:05",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00008",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00009",
+    "fecha_hora": "2024-12-10 14:50:38",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00009",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00010",
+    "fecha_hora": "2024-07-13 01:38:04",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00010",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00011",
+    "fecha_hora": "2024-02-11 03:30:17",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00011",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00012",
+    "fecha_hora": "2024-06-04 07:20:17",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00012",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00013",
+    "fecha_hora": "2024-08-29 13:10:44",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00013",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00014",
+    "fecha_hora": "2024-06-08 20:07:18",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00014",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00015",
+    "fecha_hora": "2024-11-06 14:01:40",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00015",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00016",
+    "fecha_hora": "2024-05-01 23:59:10",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00016",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00017",
+    "fecha_hora": "2024-05-16 10:31:50",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00017",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00018",
+    "fecha_hora": "2024-11-29 06:07:18",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00018",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00019",
+    "fecha_hora": "2024-06-13 17:56:44",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00019",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00020",
+    "fecha_hora": "2024-05-20 02:47:30",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00020",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00021",
+    "fecha_hora": "2024-03-13 16:55:01",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00021",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00022",
+    "fecha_hora": "2024-11-06 16:02:11",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00022",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00023",
+    "fecha_hora": "2024-05-10 15:11:17",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00023",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00024",
+    "fecha_hora": "2024-05-15 07:17:58",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00024",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00025",
+    "fecha_hora": "2024-06-08 08:31:01",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00025",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00026",
+    "fecha_hora": "2024-11-16 16:52:54",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00026",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00027",
+    "fecha_hora": "2024-02-27 01:23:38",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00027",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00028",
+    "fecha_hora": "2024-08-26 06:20:40",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00028",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00029",
+    "fecha_hora": "2024-05-16 17:50:12",
+    "estado": "confirmada",
+    "motivo": "control",
+    "paciente_id": "PAC00029",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00030",
+    "fecha_hora": "2024-05-20 03:51:33",
+    "estado": "confirmada",
+    "motivo": "control",
+    "paciente_id": "PAC00030",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00031",
+    "fecha_hora": "2024-01-07 23:06:13",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00031",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00032",
+    "fecha_hora": "2024-02-24 11:46:46",
+    "estado": "confirmada",
+    "motivo": "control",
+    "paciente_id": "PAC00032",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00033",
+    "fecha_hora": "2024-08-23 01:21:44",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00033",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00034",
+    "fecha_hora": "2024-12-29 08:38:10",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00034",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00035",
+    "fecha_hora": "2024-05-10 07:57:53",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00035",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00036",
+    "fecha_hora": "2024-10-04 14:02:44",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00036",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00037",
+    "fecha_hora": "2024-02-02 19:13:08",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00037",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00038",
+    "fecha_hora": "2024-07-19 03:35:46",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00038",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00039",
+    "fecha_hora": "2024-04-02 12:06:05",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00039",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00040",
+    "fecha_hora": "2024-07-24 04:17:36",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00040",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00041",
+    "fecha_hora": "2024-09-21 18:40:04",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00041",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00042",
+    "fecha_hora": "2024-06-10 00:22:01",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00042",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00043",
+    "fecha_hora": "2024-12-13 10:51:08",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00043",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00044",
+    "fecha_hora": "2024-10-16 16:17:53",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00044",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00045",
+    "fecha_hora": "2024-08-21 20:56:33",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00045",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00046",
+    "fecha_hora": "2024-04-04 07:47:30",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00046",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00047",
+    "fecha_hora": "2024-09-07 02:11:36",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00047",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00048",
+    "fecha_hora": "2024-01-27 21:05:59",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00048",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00049",
+    "fecha_hora": "2024-06-13 09:55:43",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00049",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00050",
+    "fecha_hora": "2024-01-16 03:50:37",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00050",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00051",
+    "fecha_hora": "2024-03-07 11:24:25",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00051",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00052",
+    "fecha_hora": "2024-08-09 11:43:03",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00052",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00053",
+    "fecha_hora": "2024-06-20 04:56:05",
+    "estado": "confirmada",
+    "motivo": "control",
+    "paciente_id": "PAC00053",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00054",
+    "fecha_hora": "2024-06-20 08:55:01",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00054",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00055",
+    "fecha_hora": "2024-03-14 23:53:38",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00055",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00056",
+    "fecha_hora": "2024-11-23 12:19:29",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00056",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00057",
+    "fecha_hora": "2024-07-21 20:58:26",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00057",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00058",
+    "fecha_hora": "2024-07-27 09:50:58",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00058",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00059",
+    "fecha_hora": "2024-10-31 07:17:29",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00059",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00060",
+    "fecha_hora": "2024-07-10 15:37:09",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00060",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00061",
+    "fecha_hora": "2024-05-12 11:36:19",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00061",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00062",
+    "fecha_hora": "2024-12-03 07:11:19",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00062",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00063",
+    "fecha_hora": "2024-04-14 23:47:40",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00063",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00064",
+    "fecha_hora": "2024-06-21 03:15:57",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00064",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00065",
+    "fecha_hora": "2024-04-28 03:53:39",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00065",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00066",
+    "fecha_hora": "2024-02-17 03:03:56",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00066",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00067",
+    "fecha_hora": "2024-11-29 03:57:14",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00067",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00068",
+    "fecha_hora": "2024-11-20 11:18:33",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00068",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00069",
+    "fecha_hora": "2024-12-11 08:55:20",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00069",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00070",
+    "fecha_hora": "2024-09-28 13:29:00",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00070",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00071",
+    "fecha_hora": "2024-12-01 07:35:51",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00071",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00072",
+    "fecha_hora": "2024-09-13 18:56:41",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00072",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00073",
+    "fecha_hora": "2024-11-26 01:40:01",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00073",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00074",
+    "fecha_hora": "2024-02-24 06:21:20",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00074",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00075",
+    "fecha_hora": "2024-01-15 10:30:03",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00075",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00076",
+    "fecha_hora": "2024-07-29 20:45:07",
+    "estado": "confirmada",
+    "motivo": "control",
+    "paciente_id": "PAC00076",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00077",
+    "fecha_hora": "2024-10-21 22:17:05",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00077",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00078",
+    "fecha_hora": "2024-03-16 00:02:42",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00078",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00079",
+    "fecha_hora": "2024-02-29 04:25:17",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00079",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00080",
+    "fecha_hora": "2024-12-05 12:52:08",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00080",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00081",
+    "fecha_hora": "2024-02-24 08:56:52",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00081",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00082",
+    "fecha_hora": "2024-05-30 07:46:18",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00082",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00083",
+    "fecha_hora": "2024-09-11 03:28:17",
+    "estado": "cancelada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00083",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00084",
+    "fecha_hora": "2024-10-17 10:27:10",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00084",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00085",
+    "fecha_hora": "2024-11-14 14:59:04",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00085",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00086",
+    "fecha_hora": "2024-10-17 10:21:15",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00086",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00087",
+    "fecha_hora": "2024-06-19 21:43:05",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00087",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00088",
+    "fecha_hora": "2024-08-21 01:10:18",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00088",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00089",
+    "fecha_hora": "2024-08-12 07:27:00",
+    "estado": "cancelada",
+    "motivo": "control",
+    "paciente_id": "PAC00089",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00090",
+    "fecha_hora": "2024-09-20 02:59:47",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00090",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00091",
+    "fecha_hora": "2024-04-10 17:52:11",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00091",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00092",
+    "fecha_hora": "2024-08-22 04:18:52",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00092",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00093",
+    "fecha_hora": "2024-07-18 16:47:07",
+    "estado": "perdida",
+    "motivo": "control",
+    "paciente_id": "PAC00093",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00094",
+    "fecha_hora": "2024-05-05 20:47:53",
+    "estado": "perdida",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00094",
+    "notas": "Revisar antecedentes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00095",
+    "fecha_hora": "2024-08-15 20:51:53",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00095",
+    "notas": ""
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00096",
+    "fecha_hora": "2024-05-11 14:52:49",
+    "estado": "cancelada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00096",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00097",
+    "fecha_hora": "2024-02-01 04:47:36",
+    "estado": "confirmada",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00097",
+    "notas": "Paciente debe llegar 15 minutos antes."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00098",
+    "fecha_hora": "2024-03-25 13:15:12",
+    "estado": "perdida",
+    "motivo": "consulta general",
+    "paciente_id": "PAC00098",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00099",
+    "fecha_hora": "2024-01-11 05:57:12",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00099",
+    "notas": "Traer examen de sangre."
+  },
+  {
+    "tipo_documento": "cita",
+    "cita_id": "CITA00100",
+    "fecha_hora": "2024-10-17 04:05:47",
+    "estado": "confirmada",
+    "motivo": "tratamiento",
+    "paciente_id": "PAC00100",
+    "notas": "Traer examen de sangre."
+  }
+]

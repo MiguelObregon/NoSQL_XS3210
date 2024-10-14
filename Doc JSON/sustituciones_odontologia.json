@@ -1,0 +1,902 @@
+[
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00001",
+    "cita_id_original": "CITA00001",
+    "paciente_id_original": "PAC00001",
+    "paciente_id_sustituto": "PAC00084",
+    "nueva_fecha_hora": "2024-04-17 18:16:12",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00002",
+    "cita_id_original": "CITA00002",
+    "paciente_id_original": "PAC00002",
+    "paciente_id_sustituto": "PAC00072",
+    "nueva_fecha_hora": "2024-11-05 13:28:23",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00003",
+    "cita_id_original": "CITA00003",
+    "paciente_id_original": "PAC00003",
+    "paciente_id_sustituto": "PAC00025",
+    "nueva_fecha_hora": "2024-03-13 16:26:33",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00004",
+    "cita_id_original": "CITA00004",
+    "paciente_id_original": "PAC00004",
+    "paciente_id_sustituto": "PAC00085",
+    "nueva_fecha_hora": "2024-05-29 09:45:51",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00005",
+    "cita_id_original": "CITA00005",
+    "paciente_id_original": "PAC00005",
+    "paciente_id_sustituto": "PAC00016",
+    "nueva_fecha_hora": "2024-01-13 13:05:27",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00006",
+    "cita_id_original": "CITA00006",
+    "paciente_id_original": "PAC00006",
+    "paciente_id_sustituto": "PAC00053",
+    "nueva_fecha_hora": "2024-01-15 03:58:58",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00007",
+    "cita_id_original": "CITA00007",
+    "paciente_id_original": "PAC00007",
+    "paciente_id_sustituto": "PAC00061",
+    "nueva_fecha_hora": "2024-08-22 22:22:29",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00008",
+    "cita_id_original": "CITA00008",
+    "paciente_id_original": "PAC00008",
+    "paciente_id_sustituto": "PAC00027",
+    "nueva_fecha_hora": "2024-12-01 16:42:45",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00009",
+    "cita_id_original": "CITA00009",
+    "paciente_id_original": "PAC00009",
+    "paciente_id_sustituto": "PAC00072",
+    "nueva_fecha_hora": "2024-05-23 14:57:46",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00010",
+    "cita_id_original": "CITA00010",
+    "paciente_id_original": "PAC00010",
+    "paciente_id_sustituto": "PAC00086",
+    "nueva_fecha_hora": "2024-05-08 07:13:11",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00011",
+    "cita_id_original": "CITA00011",
+    "paciente_id_original": "PAC00011",
+    "paciente_id_sustituto": "PAC00092",
+    "nueva_fecha_hora": "2024-05-28 00:46:50",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00012",
+    "cita_id_original": "CITA00012",
+    "paciente_id_original": "PAC00012",
+    "paciente_id_sustituto": "PAC00083",
+    "nueva_fecha_hora": "2024-01-15 17:26:58",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00013",
+    "cita_id_original": "CITA00013",
+    "paciente_id_original": "PAC00013",
+    "paciente_id_sustituto": "PAC00067",
+    "nueva_fecha_hora": "2024-12-05 05:03:00",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00014",
+    "cita_id_original": "CITA00014",
+    "paciente_id_original": "PAC00014",
+    "paciente_id_sustituto": "PAC00086",
+    "nueva_fecha_hora": "2024-08-10 06:24:54",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00015",
+    "cita_id_original": "CITA00015",
+    "paciente_id_original": "PAC00015",
+    "paciente_id_sustituto": "PAC00051",
+    "nueva_fecha_hora": "2024-02-25 23:29:23",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00016",
+    "cita_id_original": "CITA00016",
+    "paciente_id_original": "PAC00016",
+    "paciente_id_sustituto": "PAC00020",
+    "nueva_fecha_hora": "2024-11-24 21:50:23",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00017",
+    "cita_id_original": "CITA00017",
+    "paciente_id_original": "PAC00017",
+    "paciente_id_sustituto": "PAC00046",
+    "nueva_fecha_hora": "2024-09-06 18:53:08",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00018",
+    "cita_id_original": "CITA00018",
+    "paciente_id_original": "PAC00018",
+    "paciente_id_sustituto": "PAC00032",
+    "nueva_fecha_hora": "2024-04-20 06:41:10",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00019",
+    "cita_id_original": "CITA00019",
+    "paciente_id_original": "PAC00019",
+    "paciente_id_sustituto": "PAC00086",
+    "nueva_fecha_hora": "2024-11-05 01:26:28",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00020",
+    "cita_id_original": "CITA00020",
+    "paciente_id_original": "PAC00020",
+    "paciente_id_sustituto": "PAC00059",
+    "nueva_fecha_hora": "2024-09-09 08:28:51",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00021",
+    "cita_id_original": "CITA00021",
+    "paciente_id_original": "PAC00021",
+    "paciente_id_sustituto": "PAC00013",
+    "nueva_fecha_hora": "2024-10-04 22:19:43",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00022",
+    "cita_id_original": "CITA00022",
+    "paciente_id_original": "PAC00022",
+    "paciente_id_sustituto": "PAC00041",
+    "nueva_fecha_hora": "2024-10-23 09:12:01",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00023",
+    "cita_id_original": "CITA00023",
+    "paciente_id_original": "PAC00023",
+    "paciente_id_sustituto": "PAC00089",
+    "nueva_fecha_hora": "2024-05-10 12:13:42",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00024",
+    "cita_id_original": "CITA00024",
+    "paciente_id_original": "PAC00024",
+    "paciente_id_sustituto": "PAC00037",
+    "nueva_fecha_hora": "2024-12-20 14:44:35",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00025",
+    "cita_id_original": "CITA00025",
+    "paciente_id_original": "PAC00025",
+    "paciente_id_sustituto": "PAC00014",
+    "nueva_fecha_hora": "2024-03-02 14:59:48",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00026",
+    "cita_id_original": "CITA00026",
+    "paciente_id_original": "PAC00026",
+    "paciente_id_sustituto": "PAC00046",
+    "nueva_fecha_hora": "2024-06-23 23:47:35",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00027",
+    "cita_id_original": "CITA00027",
+    "paciente_id_original": "PAC00027",
+    "paciente_id_sustituto": "PAC00097",
+    "nueva_fecha_hora": "2024-02-22 16:23:52",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00028",
+    "cita_id_original": "CITA00028",
+    "paciente_id_original": "PAC00028",
+    "paciente_id_sustituto": "PAC00099",
+    "nueva_fecha_hora": "2024-12-06 17:50:33",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00029",
+    "cita_id_original": "CITA00029",
+    "paciente_id_original": "PAC00029",
+    "paciente_id_sustituto": "PAC00001",
+    "nueva_fecha_hora": "2024-04-29 23:04:00",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00030",
+    "cita_id_original": "CITA00030",
+    "paciente_id_original": "PAC00030",
+    "paciente_id_sustituto": "PAC00087",
+    "nueva_fecha_hora": "2024-02-08 15:21:33",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00031",
+    "cita_id_original": "CITA00031",
+    "paciente_id_original": "PAC00031",
+    "paciente_id_sustituto": "PAC00075",
+    "nueva_fecha_hora": "2024-05-14 00:59:13",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00032",
+    "cita_id_original": "CITA00032",
+    "paciente_id_original": "PAC00032",
+    "paciente_id_sustituto": "PAC00044",
+    "nueva_fecha_hora": "2024-11-26 15:52:44",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00033",
+    "cita_id_original": "CITA00033",
+    "paciente_id_original": "PAC00033",
+    "paciente_id_sustituto": "PAC00055",
+    "nueva_fecha_hora": "2024-06-29 17:50:30",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00034",
+    "cita_id_original": "CITA00034",
+    "paciente_id_original": "PAC00034",
+    "paciente_id_sustituto": "PAC00001",
+    "nueva_fecha_hora": "2024-01-19 23:51:08",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00035",
+    "cita_id_original": "CITA00035",
+    "paciente_id_original": "PAC00035",
+    "paciente_id_sustituto": "PAC00021",
+    "nueva_fecha_hora": "2024-10-16 22:48:44",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00036",
+    "cita_id_original": "CITA00036",
+    "paciente_id_original": "PAC00036",
+    "paciente_id_sustituto": "PAC00100",
+    "nueva_fecha_hora": "2024-06-27 07:56:51",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00037",
+    "cita_id_original": "CITA00037",
+    "paciente_id_original": "PAC00037",
+    "paciente_id_sustituto": "PAC00031",
+    "nueva_fecha_hora": "2024-08-13 08:13:20",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00038",
+    "cita_id_original": "CITA00038",
+    "paciente_id_original": "PAC00038",
+    "paciente_id_sustituto": "PAC00010",
+    "nueva_fecha_hora": "2024-09-01 18:33:06",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00039",
+    "cita_id_original": "CITA00039",
+    "paciente_id_original": "PAC00039",
+    "paciente_id_sustituto": "PAC00023",
+    "nueva_fecha_hora": "2024-08-16 19:18:15",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00040",
+    "cita_id_original": "CITA00040",
+    "paciente_id_original": "PAC00040",
+    "paciente_id_sustituto": "PAC00077",
+    "nueva_fecha_hora": "2024-03-12 18:03:35",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00041",
+    "cita_id_original": "CITA00041",
+    "paciente_id_original": "PAC00041",
+    "paciente_id_sustituto": "PAC00091",
+    "nueva_fecha_hora": "2024-06-01 01:11:47",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00042",
+    "cita_id_original": "CITA00042",
+    "paciente_id_original": "PAC00042",
+    "paciente_id_sustituto": "PAC00034",
+    "nueva_fecha_hora": "2024-01-24 21:07:45",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00043",
+    "cita_id_original": "CITA00043",
+    "paciente_id_original": "PAC00043",
+    "paciente_id_sustituto": "PAC00059",
+    "nueva_fecha_hora": "2024-03-18 18:56:48",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00044",
+    "cita_id_original": "CITA00044",
+    "paciente_id_original": "PAC00044",
+    "paciente_id_sustituto": "PAC00074",
+    "nueva_fecha_hora": "2024-09-26 07:29:29",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00045",
+    "cita_id_original": "CITA00045",
+    "paciente_id_original": "PAC00045",
+    "paciente_id_sustituto": "PAC00061",
+    "nueva_fecha_hora": "2024-08-23 13:29:27",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00046",
+    "cita_id_original": "CITA00046",
+    "paciente_id_original": "PAC00046",
+    "paciente_id_sustituto": "PAC00009",
+    "nueva_fecha_hora": "2024-10-28 11:00:28",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00047",
+    "cita_id_original": "CITA00047",
+    "paciente_id_original": "PAC00047",
+    "paciente_id_sustituto": "PAC00056",
+    "nueva_fecha_hora": "2024-06-07 19:27:58",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00048",
+    "cita_id_original": "CITA00048",
+    "paciente_id_original": "PAC00048",
+    "paciente_id_sustituto": "PAC00031",
+    "nueva_fecha_hora": "2024-05-25 00:12:01",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00049",
+    "cita_id_original": "CITA00049",
+    "paciente_id_original": "PAC00049",
+    "paciente_id_sustituto": "PAC00049",
+    "nueva_fecha_hora": "2024-10-19 05:48:27",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00050",
+    "cita_id_original": "CITA00050",
+    "paciente_id_original": "PAC00050",
+    "paciente_id_sustituto": "PAC00082",
+    "nueva_fecha_hora": "2024-11-10 22:45:54",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00051",
+    "cita_id_original": "CITA00051",
+    "paciente_id_original": "PAC00051",
+    "paciente_id_sustituto": "PAC00033",
+    "nueva_fecha_hora": "2024-11-10 11:18:20",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00052",
+    "cita_id_original": "CITA00052",
+    "paciente_id_original": "PAC00052",
+    "paciente_id_sustituto": "PAC00012",
+    "nueva_fecha_hora": "2024-04-09 10:01:03",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00053",
+    "cita_id_original": "CITA00053",
+    "paciente_id_original": "PAC00053",
+    "paciente_id_sustituto": "PAC00047",
+    "nueva_fecha_hora": "2024-08-13 13:41:48",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00054",
+    "cita_id_original": "CITA00054",
+    "paciente_id_original": "PAC00054",
+    "paciente_id_sustituto": "PAC00065",
+    "nueva_fecha_hora": "2024-12-30 02:37:43",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00055",
+    "cita_id_original": "CITA00055",
+    "paciente_id_original": "PAC00055",
+    "paciente_id_sustituto": "PAC00082",
+    "nueva_fecha_hora": "2024-10-23 12:18:00",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00056",
+    "cita_id_original": "CITA00056",
+    "paciente_id_original": "PAC00056",
+    "paciente_id_sustituto": "PAC00049",
+    "nueva_fecha_hora": "2024-09-21 04:22:40",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00057",
+    "cita_id_original": "CITA00057",
+    "paciente_id_original": "PAC00057",
+    "paciente_id_sustituto": "PAC00053",
+    "nueva_fecha_hora": "2024-05-11 15:38:10",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00058",
+    "cita_id_original": "CITA00058",
+    "paciente_id_original": "PAC00058",
+    "paciente_id_sustituto": "PAC00084",
+    "nueva_fecha_hora": "2024-09-05 07:47:48",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00059",
+    "cita_id_original": "CITA00059",
+    "paciente_id_original": "PAC00059",
+    "paciente_id_sustituto": "PAC00002",
+    "nueva_fecha_hora": "2024-03-05 11:58:38",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00060",
+    "cita_id_original": "CITA00060",
+    "paciente_id_original": "PAC00060",
+    "paciente_id_sustituto": "PAC00044",
+    "nueva_fecha_hora": "2024-03-24 02:19:34",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00061",
+    "cita_id_original": "CITA00061",
+    "paciente_id_original": "PAC00061",
+    "paciente_id_sustituto": "PAC00076",
+    "nueva_fecha_hora": "2024-12-22 21:21:31",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00062",
+    "cita_id_original": "CITA00062",
+    "paciente_id_original": "PAC00062",
+    "paciente_id_sustituto": "PAC00047",
+    "nueva_fecha_hora": "2024-09-30 06:28:49",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00063",
+    "cita_id_original": "CITA00063",
+    "paciente_id_original": "PAC00063",
+    "paciente_id_sustituto": "PAC00078",
+    "nueva_fecha_hora": "2024-09-19 05:34:14",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00064",
+    "cita_id_original": "CITA00064",
+    "paciente_id_original": "PAC00064",
+    "paciente_id_sustituto": "PAC00031",
+    "nueva_fecha_hora": "2024-03-05 15:35:50",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00065",
+    "cita_id_original": "CITA00065",
+    "paciente_id_original": "PAC00065",
+    "paciente_id_sustituto": "PAC00080",
+    "nueva_fecha_hora": "2024-06-02 20:38:54",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00066",
+    "cita_id_original": "CITA00066",
+    "paciente_id_original": "PAC00066",
+    "paciente_id_sustituto": "PAC00044",
+    "nueva_fecha_hora": "2024-03-17 20:21:08",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00067",
+    "cita_id_original": "CITA00067",
+    "paciente_id_original": "PAC00067",
+    "paciente_id_sustituto": "PAC00074",
+    "nueva_fecha_hora": "2024-06-30 10:24:42",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00068",
+    "cita_id_original": "CITA00068",
+    "paciente_id_original": "PAC00068",
+    "paciente_id_sustituto": "PAC00020",
+    "nueva_fecha_hora": "2024-02-28 06:37:29",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00069",
+    "cita_id_original": "CITA00069",
+    "paciente_id_original": "PAC00069",
+    "paciente_id_sustituto": "PAC00024",
+    "nueva_fecha_hora": "2024-10-03 15:11:02",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00070",
+    "cita_id_original": "CITA00070",
+    "paciente_id_original": "PAC00070",
+    "paciente_id_sustituto": "PAC00031",
+    "nueva_fecha_hora": "2024-03-02 08:56:25",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00071",
+    "cita_id_original": "CITA00071",
+    "paciente_id_original": "PAC00071",
+    "paciente_id_sustituto": "PAC00094",
+    "nueva_fecha_hora": "2024-11-25 17:46:57",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00072",
+    "cita_id_original": "CITA00072",
+    "paciente_id_original": "PAC00072",
+    "paciente_id_sustituto": "PAC00068",
+    "nueva_fecha_hora": "2024-06-28 09:17:42",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00073",
+    "cita_id_original": "CITA00073",
+    "paciente_id_original": "PAC00073",
+    "paciente_id_sustituto": "PAC00052",
+    "nueva_fecha_hora": "2024-02-07 14:50:00",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00074",
+    "cita_id_original": "CITA00074",
+    "paciente_id_original": "PAC00074",
+    "paciente_id_sustituto": "PAC00043",
+    "nueva_fecha_hora": "2024-11-06 07:37:35",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00075",
+    "cita_id_original": "CITA00075",
+    "paciente_id_original": "PAC00075",
+    "paciente_id_sustituto": "PAC00090",
+    "nueva_fecha_hora": "2024-11-23 04:35:47",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00076",
+    "cita_id_original": "CITA00076",
+    "paciente_id_original": "PAC00076",
+    "paciente_id_sustituto": "PAC00098",
+    "nueva_fecha_hora": "2024-04-21 02:10:41",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00077",
+    "cita_id_original": "CITA00077",
+    "paciente_id_original": "PAC00077",
+    "paciente_id_sustituto": "PAC00093",
+    "nueva_fecha_hora": "2024-05-24 20:42:39",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00078",
+    "cita_id_original": "CITA00078",
+    "paciente_id_original": "PAC00078",
+    "paciente_id_sustituto": "PAC00026",
+    "nueva_fecha_hora": "2024-04-03 07:13:52",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00079",
+    "cita_id_original": "CITA00079",
+    "paciente_id_original": "PAC00079",
+    "paciente_id_sustituto": "PAC00098",
+    "nueva_fecha_hora": "2024-07-02 19:24:54",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00080",
+    "cita_id_original": "CITA00080",
+    "paciente_id_original": "PAC00080",
+    "paciente_id_sustituto": "PAC00055",
+    "nueva_fecha_hora": "2024-01-15 00:43:57",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00081",
+    "cita_id_original": "CITA00081",
+    "paciente_id_original": "PAC00081",
+    "paciente_id_sustituto": "PAC00002",
+    "nueva_fecha_hora": "2024-02-29 08:29:48",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00082",
+    "cita_id_original": "CITA00082",
+    "paciente_id_original": "PAC00082",
+    "paciente_id_sustituto": "PAC00049",
+    "nueva_fecha_hora": "2024-10-09 01:29:49",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00083",
+    "cita_id_original": "CITA00083",
+    "paciente_id_original": "PAC00083",
+    "paciente_id_sustituto": "PAC00099",
+    "nueva_fecha_hora": "2024-05-31 03:12:40",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00084",
+    "cita_id_original": "CITA00084",
+    "paciente_id_original": "PAC00084",
+    "paciente_id_sustituto": "PAC00024",
+    "nueva_fecha_hora": "2024-07-19 04:57:43",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00085",
+    "cita_id_original": "CITA00085",
+    "paciente_id_original": "PAC00085",
+    "paciente_id_sustituto": "PAC00085",
+    "nueva_fecha_hora": "2024-11-09 01:08:14",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00086",
+    "cita_id_original": "CITA00086",
+    "paciente_id_original": "PAC00086",
+    "paciente_id_sustituto": "PAC00091",
+    "nueva_fecha_hora": "2024-04-24 08:44:04",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00087",
+    "cita_id_original": "CITA00087",
+    "paciente_id_original": "PAC00087",
+    "paciente_id_sustituto": "PAC00001",
+    "nueva_fecha_hora": "2024-12-24 00:45:22",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00088",
+    "cita_id_original": "CITA00088",
+    "paciente_id_original": "PAC00088",
+    "paciente_id_sustituto": "PAC00046",
+    "nueva_fecha_hora": "2024-03-24 23:09:20",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00089",
+    "cita_id_original": "CITA00089",
+    "paciente_id_original": "PAC00089",
+    "paciente_id_sustituto": "PAC00040",
+    "nueva_fecha_hora": "2024-05-24 12:07:39",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00090",
+    "cita_id_original": "CITA00090",
+    "paciente_id_original": "PAC00090",
+    "paciente_id_sustituto": "PAC00050",
+    "nueva_fecha_hora": "2024-07-18 19:51:41",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00091",
+    "cita_id_original": "CITA00091",
+    "paciente_id_original": "PAC00091",
+    "paciente_id_sustituto": "PAC00098",
+    "nueva_fecha_hora": "2024-09-10 09:05:07",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00092",
+    "cita_id_original": "CITA00092",
+    "paciente_id_original": "PAC00092",
+    "paciente_id_sustituto": "PAC00037",
+    "nueva_fecha_hora": "2024-07-04 03:30:46",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00093",
+    "cita_id_original": "CITA00093",
+    "paciente_id_original": "PAC00093",
+    "paciente_id_sustituto": "PAC00025",
+    "nueva_fecha_hora": "2024-04-27 13:43:55",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00094",
+    "cita_id_original": "CITA00094",
+    "paciente_id_original": "PAC00094",
+    "paciente_id_sustituto": "PAC00006",
+    "nueva_fecha_hora": "2024-11-29 10:34:58",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00095",
+    "cita_id_original": "CITA00095",
+    "paciente_id_original": "PAC00095",
+    "paciente_id_sustituto": "PAC00098",
+    "nueva_fecha_hora": "2024-03-23 01:48:15",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00096",
+    "cita_id_original": "CITA00096",
+    "paciente_id_original": "PAC00096",
+    "paciente_id_sustituto": "PAC00085",
+    "nueva_fecha_hora": "2024-03-14 19:16:29",
+    "notas": "Reprogramación por inasistencia."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00097",
+    "cita_id_original": "CITA00097",
+    "paciente_id_original": "PAC00097",
+    "paciente_id_sustituto": "PAC00014",
+    "nueva_fecha_hora": "2024-04-03 13:37:41",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00098",
+    "cita_id_original": "CITA00098",
+    "paciente_id_original": "PAC00098",
+    "paciente_id_sustituto": "PAC00003",
+    "nueva_fecha_hora": "2024-10-11 07:59:59",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00099",
+    "cita_id_original": "CITA00099",
+    "paciente_id_original": "PAC00099",
+    "paciente_id_sustituto": "PAC00004",
+    "nueva_fecha_hora": "2024-08-30 07:01:16",
+    "notas": "Sustitución a petición del paciente."
+  },
+  {
+    "tipo_documento": "sustitucion",
+    "sustitucion_id": "SUST00100",
+    "cita_id_original": "CITA00100",
+    "paciente_id_original": "PAC00100",
+    "paciente_id_sustituto": "PAC00086",
+    "nueva_fecha_hora": "2024-05-20 22:41:04",
+    "notas": "Reprogramación por inasistencia."
+  }
+]

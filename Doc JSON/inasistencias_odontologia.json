@@ -1,0 +1,802 @@
+[
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00001",
+    "cita_id": "CITA00001",
+    "paciente_id": "PAC00001",
+    "fecha_cita": "2024-11-05 12:23:27",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00002",
+    "cita_id": "CITA00002",
+    "paciente_id": "PAC00002",
+    "fecha_cita": "2024-02-20 20:20:43",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00003",
+    "cita_id": "CITA00003",
+    "paciente_id": "PAC00003",
+    "fecha_cita": "2024-04-22 18:12:49",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00004",
+    "cita_id": "CITA00004",
+    "paciente_id": "PAC00004",
+    "fecha_cita": "2024-05-13 01:14:06",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00005",
+    "cita_id": "CITA00005",
+    "paciente_id": "PAC00005",
+    "fecha_cita": "2024-07-08 15:10:18",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00006",
+    "cita_id": "CITA00006",
+    "paciente_id": "PAC00006",
+    "fecha_cita": "2024-12-04 04:41:34",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00007",
+    "cita_id": "CITA00007",
+    "paciente_id": "PAC00007",
+    "fecha_cita": "2024-07-18 18:18:06",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00008",
+    "cita_id": "CITA00008",
+    "paciente_id": "PAC00008",
+    "fecha_cita": "2024-08-07 14:23:05",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00009",
+    "cita_id": "CITA00009",
+    "paciente_id": "PAC00009",
+    "fecha_cita": "2024-12-10 14:50:38",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00010",
+    "cita_id": "CITA00010",
+    "paciente_id": "PAC00010",
+    "fecha_cita": "2024-07-13 01:38:04",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00011",
+    "cita_id": "CITA00011",
+    "paciente_id": "PAC00011",
+    "fecha_cita": "2024-02-11 03:30:17",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00012",
+    "cita_id": "CITA00012",
+    "paciente_id": "PAC00012",
+    "fecha_cita": "2024-06-04 07:20:17",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00013",
+    "cita_id": "CITA00013",
+    "paciente_id": "PAC00013",
+    "fecha_cita": "2024-08-29 13:10:44",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00014",
+    "cita_id": "CITA00014",
+    "paciente_id": "PAC00014",
+    "fecha_cita": "2024-06-08 20:07:18",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00015",
+    "cita_id": "CITA00015",
+    "paciente_id": "PAC00015",
+    "fecha_cita": "2024-11-06 14:01:40",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00016",
+    "cita_id": "CITA00016",
+    "paciente_id": "PAC00016",
+    "fecha_cita": "2024-05-01 23:59:10",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00017",
+    "cita_id": "CITA00017",
+    "paciente_id": "PAC00017",
+    "fecha_cita": "2024-05-16 10:31:50",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00018",
+    "cita_id": "CITA00018",
+    "paciente_id": "PAC00018",
+    "fecha_cita": "2024-11-29 06:07:18",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00019",
+    "cita_id": "CITA00019",
+    "paciente_id": "PAC00019",
+    "fecha_cita": "2024-06-13 17:56:44",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00020",
+    "cita_id": "CITA00020",
+    "paciente_id": "PAC00020",
+    "fecha_cita": "2024-05-20 02:47:30",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00021",
+    "cita_id": "CITA00021",
+    "paciente_id": "PAC00021",
+    "fecha_cita": "2024-03-13 16:55:01",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00022",
+    "cita_id": "CITA00022",
+    "paciente_id": "PAC00022",
+    "fecha_cita": "2024-11-06 16:02:11",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00023",
+    "cita_id": "CITA00023",
+    "paciente_id": "PAC00023",
+    "fecha_cita": "2024-05-10 15:11:17",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00024",
+    "cita_id": "CITA00024",
+    "paciente_id": "PAC00024",
+    "fecha_cita": "2024-05-15 07:17:58",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00025",
+    "cita_id": "CITA00025",
+    "paciente_id": "PAC00025",
+    "fecha_cita": "2024-06-08 08:31:01",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00026",
+    "cita_id": "CITA00026",
+    "paciente_id": "PAC00026",
+    "fecha_cita": "2024-11-16 16:52:54",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00027",
+    "cita_id": "CITA00027",
+    "paciente_id": "PAC00027",
+    "fecha_cita": "2024-02-27 01:23:38",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00028",
+    "cita_id": "CITA00028",
+    "paciente_id": "PAC00028",
+    "fecha_cita": "2024-08-26 06:20:40",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00029",
+    "cita_id": "CITA00029",
+    "paciente_id": "PAC00029",
+    "fecha_cita": "2024-05-16 17:50:12",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00030",
+    "cita_id": "CITA00030",
+    "paciente_id": "PAC00030",
+    "fecha_cita": "2024-05-20 03:51:33",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00031",
+    "cita_id": "CITA00031",
+    "paciente_id": "PAC00031",
+    "fecha_cita": "2024-01-07 23:06:13",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00032",
+    "cita_id": "CITA00032",
+    "paciente_id": "PAC00032",
+    "fecha_cita": "2024-02-24 11:46:46",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00033",
+    "cita_id": "CITA00033",
+    "paciente_id": "PAC00033",
+    "fecha_cita": "2024-08-23 01:21:44",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00034",
+    "cita_id": "CITA00034",
+    "paciente_id": "PAC00034",
+    "fecha_cita": "2024-12-29 08:38:10",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00035",
+    "cita_id": "CITA00035",
+    "paciente_id": "PAC00035",
+    "fecha_cita": "2024-05-10 07:57:53",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00036",
+    "cita_id": "CITA00036",
+    "paciente_id": "PAC00036",
+    "fecha_cita": "2024-10-04 14:02:44",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00037",
+    "cita_id": "CITA00037",
+    "paciente_id": "PAC00037",
+    "fecha_cita": "2024-02-02 19:13:08",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00038",
+    "cita_id": "CITA00038",
+    "paciente_id": "PAC00038",
+    "fecha_cita": "2024-07-19 03:35:46",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00039",
+    "cita_id": "CITA00039",
+    "paciente_id": "PAC00039",
+    "fecha_cita": "2024-04-02 12:06:05",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00040",
+    "cita_id": "CITA00040",
+    "paciente_id": "PAC00040",
+    "fecha_cita": "2024-07-24 04:17:36",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00041",
+    "cita_id": "CITA00041",
+    "paciente_id": "PAC00041",
+    "fecha_cita": "2024-09-21 18:40:04",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00042",
+    "cita_id": "CITA00042",
+    "paciente_id": "PAC00042",
+    "fecha_cita": "2024-06-10 00:22:01",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00043",
+    "cita_id": "CITA00043",
+    "paciente_id": "PAC00043",
+    "fecha_cita": "2024-12-13 10:51:08",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00044",
+    "cita_id": "CITA00044",
+    "paciente_id": "PAC00044",
+    "fecha_cita": "2024-10-16 16:17:53",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00045",
+    "cita_id": "CITA00045",
+    "paciente_id": "PAC00045",
+    "fecha_cita": "2024-08-21 20:56:33",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00046",
+    "cita_id": "CITA00046",
+    "paciente_id": "PAC00046",
+    "fecha_cita": "2024-04-04 07:47:30",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00047",
+    "cita_id": "CITA00047",
+    "paciente_id": "PAC00047",
+    "fecha_cita": "2024-09-07 02:11:36",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00048",
+    "cita_id": "CITA00048",
+    "paciente_id": "PAC00048",
+    "fecha_cita": "2024-01-27 21:05:59",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00049",
+    "cita_id": "CITA00049",
+    "paciente_id": "PAC00049",
+    "fecha_cita": "2024-06-13 09:55:43",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00050",
+    "cita_id": "CITA00050",
+    "paciente_id": "PAC00050",
+    "fecha_cita": "2024-01-16 03:50:37",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00051",
+    "cita_id": "CITA00051",
+    "paciente_id": "PAC00051",
+    "fecha_cita": "2024-03-07 11:24:25",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00052",
+    "cita_id": "CITA00052",
+    "paciente_id": "PAC00052",
+    "fecha_cita": "2024-08-09 11:43:03",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00053",
+    "cita_id": "CITA00053",
+    "paciente_id": "PAC00053",
+    "fecha_cita": "2024-06-20 04:56:05",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00054",
+    "cita_id": "CITA00054",
+    "paciente_id": "PAC00054",
+    "fecha_cita": "2024-06-20 08:55:01",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00055",
+    "cita_id": "CITA00055",
+    "paciente_id": "PAC00055",
+    "fecha_cita": "2024-03-14 23:53:38",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00056",
+    "cita_id": "CITA00056",
+    "paciente_id": "PAC00056",
+    "fecha_cita": "2024-11-23 12:19:29",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00057",
+    "cita_id": "CITA00057",
+    "paciente_id": "PAC00057",
+    "fecha_cita": "2024-07-21 20:58:26",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00058",
+    "cita_id": "CITA00058",
+    "paciente_id": "PAC00058",
+    "fecha_cita": "2024-07-27 09:50:58",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00059",
+    "cita_id": "CITA00059",
+    "paciente_id": "PAC00059",
+    "fecha_cita": "2024-10-31 07:17:29",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00060",
+    "cita_id": "CITA00060",
+    "paciente_id": "PAC00060",
+    "fecha_cita": "2024-07-10 15:37:09",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00061",
+    "cita_id": "CITA00061",
+    "paciente_id": "PAC00061",
+    "fecha_cita": "2024-05-12 11:36:19",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00062",
+    "cita_id": "CITA00062",
+    "paciente_id": "PAC00062",
+    "fecha_cita": "2024-12-03 07:11:19",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00063",
+    "cita_id": "CITA00063",
+    "paciente_id": "PAC00063",
+    "fecha_cita": "2024-04-14 23:47:40",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00064",
+    "cita_id": "CITA00064",
+    "paciente_id": "PAC00064",
+    "fecha_cita": "2024-06-21 03:15:57",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00065",
+    "cita_id": "CITA00065",
+    "paciente_id": "PAC00065",
+    "fecha_cita": "2024-04-28 03:53:39",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00066",
+    "cita_id": "CITA00066",
+    "paciente_id": "PAC00066",
+    "fecha_cita": "2024-02-17 03:03:56",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00067",
+    "cita_id": "CITA00067",
+    "paciente_id": "PAC00067",
+    "fecha_cita": "2024-11-29 03:57:14",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00068",
+    "cita_id": "CITA00068",
+    "paciente_id": "PAC00068",
+    "fecha_cita": "2024-11-20 11:18:33",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00069",
+    "cita_id": "CITA00069",
+    "paciente_id": "PAC00069",
+    "fecha_cita": "2024-12-11 08:55:20",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00070",
+    "cita_id": "CITA00070",
+    "paciente_id": "PAC00070",
+    "fecha_cita": "2024-09-28 13:29:00",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00071",
+    "cita_id": "CITA00071",
+    "paciente_id": "PAC00071",
+    "fecha_cita": "2024-12-01 07:35:51",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00072",
+    "cita_id": "CITA00072",
+    "paciente_id": "PAC00072",
+    "fecha_cita": "2024-09-13 18:56:41",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00073",
+    "cita_id": "CITA00073",
+    "paciente_id": "PAC00073",
+    "fecha_cita": "2024-11-26 01:40:01",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00074",
+    "cita_id": "CITA00074",
+    "paciente_id": "PAC00074",
+    "fecha_cita": "2024-02-24 06:21:20",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00075",
+    "cita_id": "CITA00075",
+    "paciente_id": "PAC00075",
+    "fecha_cita": "2024-01-15 10:30:03",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00076",
+    "cita_id": "CITA00076",
+    "paciente_id": "PAC00076",
+    "fecha_cita": "2024-07-29 20:45:07",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00077",
+    "cita_id": "CITA00077",
+    "paciente_id": "PAC00077",
+    "fecha_cita": "2024-10-21 22:17:05",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00078",
+    "cita_id": "CITA00078",
+    "paciente_id": "PAC00078",
+    "fecha_cita": "2024-03-16 00:02:42",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00079",
+    "cita_id": "CITA00079",
+    "paciente_id": "PAC00079",
+    "fecha_cita": "2024-02-29 04:25:17",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00080",
+    "cita_id": "CITA00080",
+    "paciente_id": "PAC00080",
+    "fecha_cita": "2024-12-05 12:52:08",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00081",
+    "cita_id": "CITA00081",
+    "paciente_id": "PAC00081",
+    "fecha_cita": "2024-02-24 08:56:52",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00082",
+    "cita_id": "CITA00082",
+    "paciente_id": "PAC00082",
+    "fecha_cita": "2024-05-30 07:46:18",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00083",
+    "cita_id": "CITA00083",
+    "paciente_id": "PAC00083",
+    "fecha_cita": "2024-09-11 03:28:17",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00084",
+    "cita_id": "CITA00084",
+    "paciente_id": "PAC00084",
+    "fecha_cita": "2024-10-17 10:27:10",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00085",
+    "cita_id": "CITA00085",
+    "paciente_id": "PAC00085",
+    "fecha_cita": "2024-11-14 14:59:04",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00086",
+    "cita_id": "CITA00086",
+    "paciente_id": "PAC00086",
+    "fecha_cita": "2024-10-17 10:21:15",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00087",
+    "cita_id": "CITA00087",
+    "paciente_id": "PAC00087",
+    "fecha_cita": "2024-06-19 21:43:05",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00088",
+    "cita_id": "CITA00088",
+    "paciente_id": "PAC00088",
+    "fecha_cita": "2024-08-21 01:10:18",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00089",
+    "cita_id": "CITA00089",
+    "paciente_id": "PAC00089",
+    "fecha_cita": "2024-08-12 07:27:00",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00090",
+    "cita_id": "CITA00090",
+    "paciente_id": "PAC00090",
+    "fecha_cita": "2024-09-20 02:59:47",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00091",
+    "cita_id": "CITA00091",
+    "paciente_id": "PAC00091",
+    "fecha_cita": "2024-04-10 17:52:11",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00092",
+    "cita_id": "CITA00092",
+    "paciente_id": "PAC00092",
+    "fecha_cita": "2024-08-22 04:18:52",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00093",
+    "cita_id": "CITA00093",
+    "paciente_id": "PAC00093",
+    "fecha_cita": "2024-07-18 16:47:07",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00094",
+    "cita_id": "CITA00094",
+    "paciente_id": "PAC00094",
+    "fecha_cita": "2024-05-05 20:47:53",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00095",
+    "cita_id": "CITA00095",
+    "paciente_id": "PAC00095",
+    "fecha_cita": "2024-08-15 20:51:53",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00096",
+    "cita_id": "CITA00096",
+    "paciente_id": "PAC00096",
+    "fecha_cita": "2024-05-11 14:52:49",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00097",
+    "cita_id": "CITA00097",
+    "paciente_id": "PAC00097",
+    "fecha_cita": "2024-02-01 04:47:36",
+    "razones": "Enfermedad"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00098",
+    "cita_id": "CITA00098",
+    "paciente_id": "PAC00098",
+    "fecha_cita": "2024-03-25 13:15:12",
+    "razones": "No informó razones"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00099",
+    "cita_id": "CITA00099",
+    "paciente_id": "PAC00099",
+    "fecha_cita": "2024-01-11 05:57:12",
+    "razones": "Problemas de transporte"
+  },
+  {
+    "tipo_documento": "inasistencia",
+    "inasistencia_id": "INA00100",
+    "cita_id": "CITA00100",
+    "paciente_id": "PAC00100",
+    "fecha_cita": "2024-10-17 04:05:47",
+    "razones": "Enfermedad"
+  }
+]
