@@ -1,0 +1,101 @@
+tipo_documento,inasistencia_id,cita_id,paciente_id,fecha_cita,razones
+inasistencia,INA00001,CITA00001,PAC00001,2024-11-05 12:23:27,No informó razones
+inasistencia,INA00002,CITA00002,PAC00002,2024-02-20 20:20:43,Problemas de transporte
+inasistencia,INA00003,CITA00003,PAC00003,2024-04-22 18:12:49,Problemas de transporte
+inasistencia,INA00004,CITA00004,PAC00004,2024-05-13 01:14:06,Enfermedad
+inasistencia,INA00005,CITA00005,PAC00005,2024-07-08 15:10:18,No informó razones
+inasistencia,INA00006,CITA00006,PAC00006,2024-12-04 04:41:34,No informó razones
+inasistencia,INA00007,CITA00007,PAC00007,2024-07-18 18:18:06,Enfermedad
+inasistencia,INA00008,CITA00008,PAC00008,2024-08-07 14:23:05,No informó razones
+inasistencia,INA00009,CITA00009,PAC00009,2024-12-10 14:50:38,Problemas de transporte
+inasistencia,INA00010,CITA00010,PAC00010,2024-07-13 01:38:04,Problemas de transporte
+inasistencia,INA00011,CITA00011,PAC00011,2024-02-11 03:30:17,Problemas de transporte
+inasistencia,INA00012,CITA00012,PAC00012,2024-06-04 07:20:17,No informó razones
+inasistencia,INA00013,CITA00013,PAC00013,2024-08-29 13:10:44,Enfermedad
+inasistencia,INA00014,CITA00014,PAC00014,2024-06-08 20:07:18,Enfermedad
+inasistencia,INA00015,CITA00015,PAC00015,2024-11-06 14:01:40,No informó razones
+inasistencia,INA00016,CITA00016,PAC00016,2024-05-01 23:59:10,Problemas de transporte
+inasistencia,INA00017,CITA00017,PAC00017,2024-05-16 10:31:50,Enfermedad
+inasistencia,INA00018,CITA00018,PAC00018,2024-11-29 06:07:18,No informó razones
+inasistencia,INA00019,CITA00019,PAC00019,2024-06-13 17:56:44,Enfermedad
+inasistencia,INA00020,CITA00020,PAC00020,2024-05-20 02:47:30,No informó razones
+inasistencia,INA00021,CITA00021,PAC00021,2024-03-13 16:55:01,Enfermedad
+inasistencia,INA00022,CITA00022,PAC00022,2024-11-06 16:02:11,No informó razones
+inasistencia,INA00023,CITA00023,PAC00023,2024-05-10 15:11:17,Enfermedad
+inasistencia,INA00024,CITA00024,PAC00024,2024-05-15 07:17:58,Problemas de transporte
+inasistencia,INA00025,CITA00025,PAC00025,2024-06-08 08:31:01,Problemas de transporte
+inasistencia,INA00026,CITA00026,PAC00026,2024-11-16 16:52:54,No informó razones
+inasistencia,INA00027,CITA00027,PAC00027,2024-02-27 01:23:38,No informó razones
+inasistencia,INA00028,CITA00028,PAC00028,2024-08-26 06:20:40,Enfermedad
+inasistencia,INA00029,CITA00029,PAC00029,2024-05-16 17:50:12,No informó razones
+inasistencia,INA00030,CITA00030,PAC00030,2024-05-20 03:51:33,Enfermedad
+inasistencia,INA00031,CITA00031,PAC00031,2024-01-07 23:06:13,Problemas de transporte
+inasistencia,INA00032,CITA00032,PAC00032,2024-02-24 11:46:46,No informó razones
+inasistencia,INA00033,CITA00033,PAC00033,2024-08-23 01:21:44,Problemas de transporte
+inasistencia,INA00034,CITA00034,PAC00034,2024-12-29 08:38:10,Problemas de transporte
+inasistencia,INA00035,CITA00035,PAC00035,2024-05-10 07:57:53,Problemas de transporte
+inasistencia,INA00036,CITA00036,PAC00036,2024-10-04 14:02:44,Problemas de transporte
+inasistencia,INA00037,CITA00037,PAC00037,2024-02-02 19:13:08,Problemas de transporte
+inasistencia,INA00038,CITA00038,PAC00038,2024-07-19 03:35:46,Problemas de transporte
+inasistencia,INA00039,CITA00039,PAC00039,2024-04-02 12:06:05,No informó razones
+inasistencia,INA00040,CITA00040,PAC00040,2024-07-24 04:17:36,No informó razones
+inasistencia,INA00041,CITA00041,PAC00041,2024-09-21 18:40:04,No informó razones
+inasistencia,INA00042,CITA00042,PAC00042,2024-06-10 00:22:01,Problemas de transporte
+inasistencia,INA00043,CITA00043,PAC00043,2024-12-13 10:51:08,Enfermedad
+inasistencia,INA00044,CITA00044,PAC00044,2024-10-16 16:17:53,Problemas de transporte
+inasistencia,INA00045,CITA00045,PAC00045,2024-08-21 20:56:33,Problemas de transporte
+inasistencia,INA00046,CITA00046,PAC00046,2024-04-04 07:47:30,Enfermedad
+inasistencia,INA00047,CITA00047,PAC00047,2024-09-07 02:11:36,Enfermedad
+inasistencia,INA00048,CITA00048,PAC00048,2024-01-27 21:05:59,No informó razones
+inasistencia,INA00049,CITA00049,PAC00049,2024-06-13 09:55:43,No informó razones
+inasistencia,INA00050,CITA00050,PAC00050,2024-01-16 03:50:37,Enfermedad
+inasistencia,INA00051,CITA00051,PAC00051,2024-03-07 11:24:25,No informó razones
+inasistencia,INA00052,CITA00052,PAC00052,2024-08-09 11:43:03,Enfermedad
+inasistencia,INA00053,CITA00053,PAC00053,2024-06-20 04:56:05,No informó razones
+inasistencia,INA00054,CITA00054,PAC00054,2024-06-20 08:55:01,Enfermedad
+inasistencia,INA00055,CITA00055,PAC00055,2024-03-14 23:53:38,Problemas de transporte
+inasistencia,INA00056,CITA00056,PAC00056,2024-11-23 12:19:29,Problemas de transporte
+inasistencia,INA00057,CITA00057,PAC00057,2024-07-21 20:58:26,Enfermedad
+inasistencia,INA00058,CITA00058,PAC00058,2024-07-27 09:50:58,Problemas de transporte
+inasistencia,INA00059,CITA00059,PAC00059,2024-10-31 07:17:29,Problemas de transporte
+inasistencia,INA00060,CITA00060,PAC00060,2024-07-10 15:37:09,Enfermedad
+inasistencia,INA00061,CITA00061,PAC00061,2024-05-12 11:36:19,Enfermedad
+inasistencia,INA00062,CITA00062,PAC00062,2024-12-03 07:11:19,Enfermedad
+inasistencia,INA00063,CITA00063,PAC00063,2024-04-14 23:47:40,Enfermedad
+inasistencia,INA00064,CITA00064,PAC00064,2024-06-21 03:15:57,No informó razones
+inasistencia,INA00065,CITA00065,PAC00065,2024-04-28 03:53:39,Enfermedad
+inasistencia,INA00066,CITA00066,PAC00066,2024-02-17 03:03:56,No informó razones
+inasistencia,INA00067,CITA00067,PAC00067,2024-11-29 03:57:14,Enfermedad
+inasistencia,INA00068,CITA00068,PAC00068,2024-11-20 11:18:33,Enfermedad
+inasistencia,INA00069,CITA00069,PAC00069,2024-12-11 08:55:20,No informó razones
+inasistencia,INA00070,CITA00070,PAC00070,2024-09-28 13:29:00,No informó razones
+inasistencia,INA00071,CITA00071,PAC00071,2024-12-01 07:35:51,No informó razones
+inasistencia,INA00072,CITA00072,PAC00072,2024-09-13 18:56:41,Problemas de transporte
+inasistencia,INA00073,CITA00073,PAC00073,2024-11-26 01:40:01,Enfermedad
+inasistencia,INA00074,CITA00074,PAC00074,2024-02-24 06:21:20,Problemas de transporte
+inasistencia,INA00075,CITA00075,PAC00075,2024-01-15 10:30:03,No informó razones
+inasistencia,INA00076,CITA00076,PAC00076,2024-07-29 20:45:07,Problemas de transporte
+inasistencia,INA00077,CITA00077,PAC00077,2024-10-21 22:17:05,Problemas de transporte
+inasistencia,INA00078,CITA00078,PAC00078,2024-03-16 00:02:42,Problemas de transporte
+inasistencia,INA00079,CITA00079,PAC00079,2024-02-29 04:25:17,Enfermedad
+inasistencia,INA00080,CITA00080,PAC00080,2024-12-05 12:52:08,No informó razones
+inasistencia,INA00081,CITA00081,PAC00081,2024-02-24 08:56:52,Enfermedad
+inasistencia,INA00082,CITA00082,PAC00082,2024-05-30 07:46:18,Problemas de transporte
+inasistencia,INA00083,CITA00083,PAC00083,2024-09-11 03:28:17,Enfermedad
+inasistencia,INA00084,CITA00084,PAC00084,2024-10-17 10:27:10,Problemas de transporte
+inasistencia,INA00085,CITA00085,PAC00085,2024-11-14 14:59:04,Problemas de transporte
+inasistencia,INA00086,CITA00086,PAC00086,2024-10-17 10:21:15,Problemas de transporte
+inasistencia,INA00087,CITA00087,PAC00087,2024-06-19 21:43:05,Enfermedad
+inasistencia,INA00088,CITA00088,PAC00088,2024-08-21 01:10:18,Enfermedad
+inasistencia,INA00089,CITA00089,PAC00089,2024-08-12 07:27:00,Problemas de transporte
+inasistencia,INA00090,CITA00090,PAC00090,2024-09-20 02:59:47,Problemas de transporte
+inasistencia,INA00091,CITA00091,PAC00091,2024-04-10 17:52:11,Problemas de transporte
+inasistencia,INA00092,CITA00092,PAC00092,2024-08-22 04:18:52,No informó razones
+inasistencia,INA00093,CITA00093,PAC00093,2024-07-18 16:47:07,Problemas de transporte
+inasistencia,INA00094,CITA00094,PAC00094,2024-05-05 20:47:53,Enfermedad
+inasistencia,INA00095,CITA00095,PAC00095,2024-08-15 20:51:53,Enfermedad
+inasistencia,INA00096,CITA00096,PAC00096,2024-05-11 14:52:49,Enfermedad
+inasistencia,INA00097,CITA00097,PAC00097,2024-02-01 04:47:36,Enfermedad
+inasistencia,INA00098,CITA00098,PAC00098,2024-03-25 13:15:12,No informó razones
+inasistencia,INA00099,CITA00099,PAC00099,2024-01-11 05:57:12,Problemas de transporte
+inasistencia,INA00100,CITA00100,PAC00100,2024-10-17 04:05:47,Enfermedad

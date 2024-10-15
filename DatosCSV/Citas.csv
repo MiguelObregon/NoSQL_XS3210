@@ -1,0 +1,101 @@
+tipo_documento,cita_id,fecha_hora,estado,motivo,paciente_id,notas
+cita,CITA00001,2024-11-05 12:23:27,perdida,tratamiento,PAC00001,
+cita,CITA00002,2024-02-20 20:20:43,perdida,consulta general,PAC00002,
+cita,CITA00003,2024-04-22 18:12:49,cancelada,control,PAC00003,
+cita,CITA00004,2024-05-13 01:14:06,cancelada,consulta general,PAC00004,Paciente debe llegar 15 minutos antes.
+cita,CITA00005,2024-07-08 15:10:18,perdida,tratamiento,PAC00005,Revisar antecedentes.
+cita,CITA00006,2024-12-04 04:41:34,perdida,tratamiento,PAC00006,Traer examen de sangre.
+cita,CITA00007,2024-07-18 18:18:06,cancelada,tratamiento,PAC00007,Traer examen de sangre.
+cita,CITA00008,2024-08-07 14:23:05,cancelada,tratamiento,PAC00008,Traer examen de sangre.
+cita,CITA00009,2024-12-10 14:50:38,perdida,consulta general,PAC00009,Traer examen de sangre.
+cita,CITA00010,2024-07-13 01:38:04,perdida,control,PAC00010,Revisar antecedentes.
+cita,CITA00011,2024-02-11 03:30:17,perdida,tratamiento,PAC00011,Paciente debe llegar 15 minutos antes.
+cita,CITA00012,2024-06-04 07:20:17,cancelada,tratamiento,PAC00012,
+cita,CITA00013,2024-08-29 13:10:44,perdida,consulta general,PAC00013,Paciente debe llegar 15 minutos antes.
+cita,CITA00014,2024-06-08 20:07:18,cancelada,consulta general,PAC00014,
+cita,CITA00015,2024-11-06 14:01:40,cancelada,consulta general,PAC00015,Traer examen de sangre.
+cita,CITA00016,2024-05-01 23:59:10,confirmada,consulta general,PAC00016,
+cita,CITA00017,2024-05-16 10:31:50,perdida,tratamiento,PAC00017,Revisar antecedentes.
+cita,CITA00018,2024-11-29 06:07:18,perdida,control,PAC00018,Paciente debe llegar 15 minutos antes.
+cita,CITA00019,2024-06-13 17:56:44,cancelada,consulta general,PAC00019,Revisar antecedentes.
+cita,CITA00020,2024-05-20 02:47:30,confirmada,consulta general,PAC00020,Revisar antecedentes.
+cita,CITA00021,2024-03-13 16:55:01,cancelada,tratamiento,PAC00021,
+cita,CITA00022,2024-11-06 16:02:11,perdida,tratamiento,PAC00022,Paciente debe llegar 15 minutos antes.
+cita,CITA00023,2024-05-10 15:11:17,confirmada,tratamiento,PAC00023,
+cita,CITA00024,2024-05-15 07:17:58,confirmada,tratamiento,PAC00024,Paciente debe llegar 15 minutos antes.
+cita,CITA00025,2024-06-08 08:31:01,cancelada,tratamiento,PAC00025,Revisar antecedentes.
+cita,CITA00026,2024-11-16 16:52:54,perdida,consulta general,PAC00026,Paciente debe llegar 15 minutos antes.
+cita,CITA00027,2024-02-27 01:23:38,cancelada,control,PAC00027,Revisar antecedentes.
+cita,CITA00028,2024-08-26 06:20:40,cancelada,tratamiento,PAC00028,
+cita,CITA00029,2024-05-16 17:50:12,confirmada,control,PAC00029,Traer examen de sangre.
+cita,CITA00030,2024-05-20 03:51:33,confirmada,control,PAC00030,
+cita,CITA00031,2024-01-07 23:06:13,perdida,tratamiento,PAC00031,Paciente debe llegar 15 minutos antes.
+cita,CITA00032,2024-02-24 11:46:46,confirmada,control,PAC00032,Revisar antecedentes.
+cita,CITA00033,2024-08-23 01:21:44,cancelada,tratamiento,PAC00033,
+cita,CITA00034,2024-12-29 08:38:10,confirmada,consulta general,PAC00034,Traer examen de sangre.
+cita,CITA00035,2024-05-10 07:57:53,cancelada,consulta general,PAC00035,Paciente debe llegar 15 minutos antes.
+cita,CITA00036,2024-10-04 14:02:44,perdida,tratamiento,PAC00036,Paciente debe llegar 15 minutos antes.
+cita,CITA00037,2024-02-02 19:13:08,perdida,tratamiento,PAC00037,Traer examen de sangre.
+cita,CITA00038,2024-07-19 03:35:46,cancelada,control,PAC00038,Traer examen de sangre.
+cita,CITA00039,2024-04-02 12:06:05,perdida,tratamiento,PAC00039,Paciente debe llegar 15 minutos antes.
+cita,CITA00040,2024-07-24 04:17:36,perdida,tratamiento,PAC00040,Paciente debe llegar 15 minutos antes.
+cita,CITA00041,2024-09-21 18:40:04,confirmada,consulta general,PAC00041,Revisar antecedentes.
+cita,CITA00042,2024-06-10 00:22:01,cancelada,consulta general,PAC00042,
+cita,CITA00043,2024-12-13 10:51:08,confirmada,tratamiento,PAC00043,
+cita,CITA00044,2024-10-16 16:17:53,confirmada,tratamiento,PAC00044,Revisar antecedentes.
+cita,CITA00045,2024-08-21 20:56:33,cancelada,consulta general,PAC00045,Paciente debe llegar 15 minutos antes.
+cita,CITA00046,2024-04-04 07:47:30,cancelada,control,PAC00046,Traer examen de sangre.
+cita,CITA00047,2024-09-07 02:11:36,cancelada,tratamiento,PAC00047,Traer examen de sangre.
+cita,CITA00048,2024-01-27 21:05:59,cancelada,control,PAC00048,Traer examen de sangre.
+cita,CITA00049,2024-06-13 09:55:43,cancelada,consulta general,PAC00049,Traer examen de sangre.
+cita,CITA00050,2024-01-16 03:50:37,cancelada,control,PAC00050,Paciente debe llegar 15 minutos antes.
+cita,CITA00051,2024-03-07 11:24:25,cancelada,tratamiento,PAC00051,Revisar antecedentes.
+cita,CITA00052,2024-08-09 11:43:03,perdida,control,PAC00052,Paciente debe llegar 15 minutos antes.
+cita,CITA00053,2024-06-20 04:56:05,confirmada,control,PAC00053,Revisar antecedentes.
+cita,CITA00054,2024-06-20 08:55:01,cancelada,consulta general,PAC00054,Traer examen de sangre.
+cita,CITA00055,2024-03-14 23:53:38,cancelada,tratamiento,PAC00055,Paciente debe llegar 15 minutos antes.
+cita,CITA00056,2024-11-23 12:19:29,perdida,consulta general,PAC00056,Revisar antecedentes.
+cita,CITA00057,2024-07-21 20:58:26,cancelada,consulta general,PAC00057,Traer examen de sangre.
+cita,CITA00058,2024-07-27 09:50:58,perdida,control,PAC00058,Revisar antecedentes.
+cita,CITA00059,2024-10-31 07:17:29,confirmada,consulta general,PAC00059,Traer examen de sangre.
+cita,CITA00060,2024-07-10 15:37:09,cancelada,control,PAC00060,
+cita,CITA00061,2024-05-12 11:36:19,cancelada,consulta general,PAC00061,Revisar antecedentes.
+cita,CITA00062,2024-12-03 07:11:19,confirmada,consulta general,PAC00062,Paciente debe llegar 15 minutos antes.
+cita,CITA00063,2024-04-14 23:47:40,perdida,tratamiento,PAC00063,Traer examen de sangre.
+cita,CITA00064,2024-06-21 03:15:57,perdida,tratamiento,PAC00064,Paciente debe llegar 15 minutos antes.
+cita,CITA00065,2024-04-28 03:53:39,cancelada,consulta general,PAC00065,Paciente debe llegar 15 minutos antes.
+cita,CITA00066,2024-02-17 03:03:56,perdida,tratamiento,PAC00066,Traer examen de sangre.
+cita,CITA00067,2024-11-29 03:57:14,perdida,control,PAC00067,Revisar antecedentes.
+cita,CITA00068,2024-11-20 11:18:33,perdida,consulta general,PAC00068,Paciente debe llegar 15 minutos antes.
+cita,CITA00069,2024-12-11 08:55:20,cancelada,tratamiento,PAC00069,Paciente debe llegar 15 minutos antes.
+cita,CITA00070,2024-09-28 13:29:00,perdida,tratamiento,PAC00070,Traer examen de sangre.
+cita,CITA00071,2024-12-01 07:35:51,cancelada,control,PAC00071,
+cita,CITA00072,2024-09-13 18:56:41,perdida,consulta general,PAC00072,Revisar antecedentes.
+cita,CITA00073,2024-11-26 01:40:01,perdida,control,PAC00073,Paciente debe llegar 15 minutos antes.
+cita,CITA00074,2024-02-24 06:21:20,perdida,consulta general,PAC00074,Paciente debe llegar 15 minutos antes.
+cita,CITA00075,2024-01-15 10:30:03,cancelada,tratamiento,PAC00075,Revisar antecedentes.
+cita,CITA00076,2024-07-29 20:45:07,confirmada,control,PAC00076,Revisar antecedentes.
+cita,CITA00077,2024-10-21 22:17:05,perdida,tratamiento,PAC00077,Revisar antecedentes.
+cita,CITA00078,2024-03-16 00:02:42,confirmada,consulta general,PAC00078,Revisar antecedentes.
+cita,CITA00079,2024-02-29 04:25:17,cancelada,consulta general,PAC00079,Paciente debe llegar 15 minutos antes.
+cita,CITA00080,2024-12-05 12:52:08,confirmada,tratamiento,PAC00080,Traer examen de sangre.
+cita,CITA00081,2024-02-24 08:56:52,cancelada,consulta general,PAC00081,Paciente debe llegar 15 minutos antes.
+cita,CITA00082,2024-05-30 07:46:18,perdida,consulta general,PAC00082,Paciente debe llegar 15 minutos antes.
+cita,CITA00083,2024-09-11 03:28:17,cancelada,tratamiento,PAC00083,Traer examen de sangre.
+cita,CITA00084,2024-10-17 10:27:10,perdida,consulta general,PAC00084,Traer examen de sangre.
+cita,CITA00085,2024-11-14 14:59:04,perdida,tratamiento,PAC00085,Revisar antecedentes.
+cita,CITA00086,2024-10-17 10:21:15,cancelada,consulta general,PAC00086,
+cita,CITA00087,2024-06-19 21:43:05,perdida,consulta general,PAC00087,Paciente debe llegar 15 minutos antes.
+cita,CITA00088,2024-08-21 01:10:18,confirmada,tratamiento,PAC00088,Traer examen de sangre.
+cita,CITA00089,2024-08-12 07:27:00,cancelada,control,PAC00089,Traer examen de sangre.
+cita,CITA00090,2024-09-20 02:59:47,perdida,consulta general,PAC00090,Paciente debe llegar 15 minutos antes.
+cita,CITA00091,2024-04-10 17:52:11,perdida,control,PAC00091,Traer examen de sangre.
+cita,CITA00092,2024-08-22 04:18:52,cancelada,consulta general,PAC00092,
+cita,CITA00093,2024-07-18 16:47:07,perdida,control,PAC00093,Paciente debe llegar 15 minutos antes.
+cita,CITA00094,2024-05-05 20:47:53,perdida,tratamiento,PAC00094,Revisar antecedentes.
+cita,CITA00095,2024-08-15 20:51:53,perdida,consulta general,PAC00095,
+cita,CITA00096,2024-05-11 14:52:49,cancelada,consulta general,PAC00096,Paciente debe llegar 15 minutos antes.
+cita,CITA00097,2024-02-01 04:47:36,confirmada,consulta general,PAC00097,Paciente debe llegar 15 minutos antes.
+cita,CITA00098,2024-03-25 13:15:12,perdida,consulta general,PAC00098,Traer examen de sangre.
+cita,CITA00099,2024-01-11 05:57:12,confirmada,tratamiento,PAC00099,Traer examen de sangre.
+cita,CITA00100,2024-10-17 04:05:47,confirmada,tratamiento,PAC00100,Traer examen de sangre.
